@@ -142,7 +142,8 @@ public class Game {
                 + "1. Enter hit to hit.\n"
                 + "2. Enter stand to stand.\n"
                 + "3. Enter quit to quit. \n"
-                + "NOTE: Press Enter first to procced next round!"
+                + "NOTE: Press Enter First to proceed after first round!"
+                           + "No need for Enter in first round"
         );
         
         scanner.nextLine(); 
